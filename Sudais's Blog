@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<head>
+<title>Sudais's Blog</title>
+<style>
+header {
+        text-align:center;
+        background:url('http://dash.ga.co/assets/jeff-bg.png');
+        color:white;
+        background-size:cover;
+        font-family:helvetica;
+}
+img { 
+     margin: 40px 0px 0px 0px;
+     border:7px solid white;
+     border-radius:20px;
+     
+}
+h1 {
+    font-size:70px;
+}
+ul {
+     padding:10px;
+     background:rgba(255,0,23,0.2)
+}
+li {
+    font-family:helvetica;
+    display:inline;
+    padding: 0px 10px 0px 10px;
+}
+a { 
+    color:white;
+  
+}
+article {
+         color:black;
+         max-width:500px;
+         font-family:helvetica;
+         padding:20px;
+         margin: 0 auto;
+}  
+@media(max-width:500px) {
+  h1 { font-size:50px;}
+  li { display:block;}
+}
+  
+  
+
+</style>
+</head>
+
+<body>
+<header>
+<img src="https://sudaisasif.com/wp-content/uploads/2017/10/me.jpg" width=150px height=150px>
+<h1>SUDAIS'S BLOG</h1>
+<ul>
+    <li><a href="#">Home</li>
+    <li><a href="#">Contact Me</li>
+    <li><a href="https://fiverr.com/sudais299">Fiverr</li>
+</header>
+<article>
+<h2>My Story</h2>
+<p>I started freelancing back in 2016 and since then it has been a really long journey.</p>
+<button>Like</button>
+<article>
+<h2>Fiverr</h2>
+<p>There are a different number of steps you need to follow in order to get exposure and sales for your Fiverr Gigs,I'll list them below.</p>
+<button>Like</button>
+</article>
+</body>
