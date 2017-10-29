@@ -58,12 +58,23 @@ article {
     <li><a href="https://fiverr.com/sudais299">Fiverr</li>
 </header>
 <article>
-<h2>My Story</h2>
-<p>I started freelancing back in 2016 and since then it has been a really long journey.</p>
+<h2>How to find out the Theme and Plugins a WordPress site is using?</h2>
+<p>So I visited that cool site and found out that it was built using WordPress.Theirs this cool animation slider, an amazing design but how do I do this on my WordPress site?
+If you’re a WordPress enthusiast or simply a user and come across a fantastic site built on the platform, you’d want to know what theme does the site use or what plugins make it what it is to make it possible for you.
+In such, handy tools come in which allow you to scan a WordPress site to detect what frameworks, themes, and plugins the site is using.</p>
 <button>Like</button>
+</article>
 <article>
-<h2>Fiverr</h2>
-<p>There are a different number of steps you need to follow in order to get exposure and sales for your Fiverr Gigs,I'll list them below.</p>
+<h2>Create Free Online Testing Installations of WordPress</h2>
+<p>Usually, when I have to build a website for a client, I have to install WordPress on my localhost environment using XAMPP.
+This involves the process of downloading WordPress from WordPress.org.
+Extracting the WordPress folder from the zip file and renaming it to something meaningful to the project.
+Placing the folder in the htdocs folder and then creating a database using PHPMyAdmin.
+After that, I get to Install WordPress and start developing or testing the site.
+But what if I could test changes and new ideas without this time-consuming process all in the cloud free of charge?
+Sounds too good to be true?
+Well, I recently discovered such a tool named Poopy.Life. Yeah, I know the name sounds cringy but the developers named it that way so that no one would use the free version commercially.It is a product from the team who are also behind the famous WP All Import Plugin & the Oxygen Plugin, a WordPress site builder.
+There is also a Pro Version available at WP Sandbox with very reasonable pricing..</p>
 <button>Like</button>
 </article>
 </body>
